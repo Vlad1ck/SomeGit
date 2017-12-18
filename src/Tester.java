@@ -9,6 +9,7 @@ public class Tester {
 		int x = rnd.nextInt(2);
 		if(x == 1) scnd.demon();
 		if(x == 0) System.out.println("Pedro was here today");
+		System.out.println("last string of this program");
 	}
 	
 }
